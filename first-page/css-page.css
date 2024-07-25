@@ -1,0 +1,76 @@
+/* root values */
+
+:root {
+}
+
+/* root values */
+
+/* default values */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+input,
+button {
+    border: none;
+    outline: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: auto;
+}
+
+.container {
+    width: 100%;
+    max-width: 750px;
+    padding: 10px 1rem;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background-color-prim);
+    font-family: "Nunito Sans", sans-serif;
+    user-select: none;
+}
+
+/* default values */
+
+/* media query */
+
+@media (min-width: 350px) {}
+
+@media (min-width: 450px) {}
+
+@media (min-width: 550px) {}
+
+@media (min-width: 650px) {}
+
+@media (min-width: 750px) {}
+
+@media (min-width: 850px) {}
+
+@media (min-width: 950px) {}
+
+@media (min-width: 1450px) {}
+
+/* media query */
